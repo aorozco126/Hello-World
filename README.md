@@ -1,5 +1,5 @@
-# Hello-World
-My First Repo Test
+# Hola-Mundo
+Mi Primer Repositorio de Prueba
 
 Autor: Arnulfo Orozco
-Date 05/02/2022
+Fecha: 05/02/2022
